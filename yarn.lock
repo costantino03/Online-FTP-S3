@@ -9029,10 +9029,10 @@ vscode-languageserver-types@^3.16.0:
   resolved "https://registry.yarnpkg.com/vscode-languageserver-types/-/vscode-languageserver-types-3.16.0.tgz#ecf393fc121ec6974b2da3efb3155644c514e247"
   integrity sha512-k8luDIWJWyenLc5ToFQQMaSrqCHiLwyKPHKPQZ5zz21vM+vIVUSvsRpcbiECH4WR88K2XZqc4ScRcZ7nk/jbeA==
 
-vue-google-adsense@^1.9.3:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/vue-google-adsense/-/vue-google-adsense-1.9.3.tgz#14811a716f6a676b4b43b988e84a88c271336c2a"
-  integrity sha512-BFJfnPFXmpu8pC+UtlHu4Ac9pXg/I3xh5FJ91FY9AaNQ4D+507UROZ4kk95V7UMGmugB/cZ9k2v/JQMPbvBndw==
+vue-google-adsense@^1.10.1:
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/vue-google-adsense/-/vue-google-adsense-1.10.1.tgz#807fd3e5a0dfd8b1b92e058e5c036d1f50b14ac6"
+  integrity sha512-F8S6TGK4kyDDvBy7plnWkclz/2bnJNLM2GgPn2K0bzxZi5p5/Nul+NHAkUkXpwdI/eoy+M7ibnkOMhvgd7T9rw==
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
